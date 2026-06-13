@@ -55,8 +55,8 @@ knowledge_manager/
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/knowledge-manager.git
-cd knowledge-manager
+git clone https://github.com/Abdolghader-Shokri/python-knowledge_manager.git
+cd python-knowledge_manager
 ```
 
 Create and activate a virtual environment (optional but recommended):
